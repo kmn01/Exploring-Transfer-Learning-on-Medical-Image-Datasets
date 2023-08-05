@@ -1,6 +1,6 @@
 # Exploring-Transfer-Learning-on-Medical-Image-Datasets
 Medical Image Classification using Transfer Learning on BloodMNIST and OCTMNIST datasets from MEDMNIST
-[Link to report]([https://drive.google.com/file/d/1f8HEqHGIfufAhYFN20wdOUkS66_UZM1v/view](https://drive.google.com/file/d/1cHPCAxcbLZb6A9d1EaHQ0tQjKwOnptGr/view)).
+[Link to report](https://drive.google.com/file/d/1cHPCAxcbLZb6A9d1EaHQ0tQjKwOnptGr/view).
 
 ## Abstract
 Medical data often contains various forms of image data such as x-ray scans, MRI scans, and CT scans. Computer-aided diagnosis systems can benefit from making use of such image data. Our problem statement is to perform classification tasks on medical image datasets, specifically Retinal OCT and Blood cell microscope images. In recent times, the application of computational or machine intelligence in medical diagnosis is a new trend for large medical data applications. Most of the diagnosis techniques in the medical field are systematized as intelligent data classification approaches.
